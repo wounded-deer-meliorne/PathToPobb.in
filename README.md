@@ -4,7 +4,7 @@
 
 Detects any `maxroll.gg/poe/pob/` link, silently scrapes the Path of Building code in the background, and automatically redirects to pobb.in with the code pre-filled and submitted — turning a 3-step manual process into a single click.
 
-![Promo](promo_1200x800.png)
+![Promo](https://raw.githubusercontent.com/wounded-deer-meliorne/maxroll-to-pobb/main/promo_1200x800.png)
 
 ---
 

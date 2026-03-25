@@ -57,6 +57,8 @@ Open DevTools on `pobb.in` and check the Console. The extension targets `textare
 
 PRs welcome. If Maxroll or pobb.in update their DOM and break the selectors, please open an issue with the new element structure and I'll patch it quickly.
 
+If this saved you time, please help me buy 6 slices of pizza for $6 at https://ko-fi.com/woundeddeermeliorne
+
 ---
 
 ## Disclaimer

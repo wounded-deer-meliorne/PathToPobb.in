@@ -1,0 +1,10 @@
+.DS_Store
+.AppleDouble
+Thumbs.db
+Desktop.ini
+*.zip
+*.crx
+*.xpi
+.vscode/
+.idea/
+node_modules/

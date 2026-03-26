@@ -4,7 +4,7 @@
 
 Automatically redirects PoE build links from Maxroll and Mobalytics to pobb.in — with the Path of Building code pre-filled and submitted instantly.
 
-![Promo]([https://raw.githubusercontent.com/wounded-deer-meliorne/PathToPobb.in/main/promo_1200x800.png](https://github.com/wounded-deer-meliorne/PathToPobb.in/blob/main/promo_1200x800.png))
+![Promo](https://raw.githubusercontent.com/wounded-deer-meliorne/PathToPobb.in/main/promo_1200x800.png)
 
 ---
 

@@ -104,3 +104,11 @@ Not affiliated with Maxroll, Mobalytics, pobb.in, or Grinding Gear Games. Path o
 ## License
 
 [MIT](LICENSE)
+
+---
+
+## Support
+
+If this saved you some time, feel free to buy me a coffee — it helps keep the project going.
+
+☕ [ko-fi.com/woundeddeermeliorne](https://ko-fi.com/woundeddeermeliorne)

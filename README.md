@@ -31,12 +31,35 @@ Automatically redirects PoE build links from Maxroll and Mobalytics to pobb.in �
 ## Installation
 
 ### Chrome
-- **Chrome Web Store:** *Coming soon*
-- **Manual:** Load the `/chrome` folder as an unpacked extension via `chrome://extensions`
+
+**From the Chrome Web Store**
+*Coming soon*
+
+**Manual install (Developer Mode)**
+1. Download the latest release zip from the [Releases](https://github.com/wounded-deer-meliorne/PathToPobb.in/releases) page and unzip it
+2. Open Chrome and go to `chrome://extensions` in the address bar
+3. Enable **Developer mode** using the toggle in the top-right corner
+4. Click **Load unpacked**
+5. Navigate into the unzipped folder and select the `chrome/` folder
+6. The extension is now active — you'll see the PathToPobb.in icon in your toolbar
+
+---
 
 ### Firefox
-- **Firefox Add-ons:** *Coming soon*
-- **Manual:** Load any file inside `/firefox` as a temporary add-on via `about:debugging`
+
+**From Firefox Add-ons**
+*Coming soon*
+
+**Temporary install (for testing)**
+1. Download the latest release zip from the [Releases](https://github.com/wounded-deer-meliorne/PathToPobb.in/releases) page and unzip it
+2. Open Firefox and go to `about:debugging` in the address bar
+3. Click **This Firefox** in the left sidebar
+4. Click **Load Temporary Add-on**
+5. Navigate into the unzipped folder, open the `firefox/` folder, and select `manifest.json`
+6. The extension is now active — note that it will need to be reloaded each time Firefox restarts
+
+**Permanent Firefox install**
+For a permanent install on regular Firefox, the extension needs to be signed by Mozilla. A signed version will be available on the Firefox Add-ons store once submitted.
 
 ---
 
@@ -85,7 +108,7 @@ The content scripts are functionally identical between browsers. The only differ
 
 ## Troubleshooting
 
-Open DevTools (F12) on any supported page and check the Console for `[PathToPobb.in]` log lines.
+Open DevTools (F12) on any supported page and check the Console for `[PathToPobb.in]` log lines. If a build page shows the "No POB link found" error, the build likely doesn't have a POB link available on that page.
 
 ---
 
